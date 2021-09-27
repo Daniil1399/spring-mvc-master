@@ -10,7 +10,7 @@ import java.util.Collections;
 import java.util.List;
 
 @Service
-public class CarDaoIMPL implements CarDao {
+public class CarDaoImpl implements CarDao {
 
     private List<Car> cars = new ArrayList<>();
 
